@@ -74,18 +74,6 @@ Learnex provides role-based access for three types of users — **Admin**, **Fac
 
 ---
 
-## Database Configuration
-
-The application connects to a local SQL Server Express instance. The default connection string is:
-
-```
-server=LMS\SQLEXPRESS;database=LMS;integrated Security=SSPI;
-```
-
-To run the project locally, ensure SQL Server Express is installed and a database named `LMS` exists on the instance `LMS\SQLEXPRESS`. Update the connection string in [Database Connection/DbConnection.cs](Database%20Connection/DbConnection.cs) if your setup differs.
-
----
-
 ## Getting Started
 
 1. Clone the repository
@@ -93,9 +81,8 @@ To run the project locally, ensure SQL Server Express is installed and a databas
    git clone https://github.com/HBOSS01/Learning-Management-System-Learnex-.git
    ```
 2. Open `LMS.sln` in Visual Studio 2022
-3. Set up the SQL Server database and restore the schema
-4. Update the connection string in `Database Connection/DbConnection.cs` if needed
-5. Build and run the solution (`F5`)
+3. Set up your local SQL Server database and configure the connection string
+4. Build and run the solution (`F5`)
 
 ---
 

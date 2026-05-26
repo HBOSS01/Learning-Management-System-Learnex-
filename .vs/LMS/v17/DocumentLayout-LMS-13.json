@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive - american international university-bangladesh\\ahnaf hasan\u0027s files - project\\lms\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeToolTip": "studentPanel\\studentDashboard.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowGUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:23:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\studentPanel\\studentDashboard.cs [Design]",
+              "RelativeToolTip": "studentPanel\\studentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:21:33.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeToolTip": "facultyPanel\\TAssignment.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAswKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:14:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TAssignment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\TAssignment.cs [Design]",
+              "RelativeToolTip": "facultyPanel\\TAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:14:27.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeToolTip": "facultyPanel\\ProfileForm.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:13:19.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacultyDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\FacultyDashboard.cs [Design]",
+              "RelativeToolTip": "facultyPanel\\FacultyDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:43:07.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacultyDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive - American International University-Bangladesh\\AHNAF HASAN\u0027s files - Project\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeToolTip": "facultyPanel\\FacultyDashboard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:08:58.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

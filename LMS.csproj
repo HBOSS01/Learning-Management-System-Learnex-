@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LMS</RootNamespace>
+    <AssemblyName>LMS</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>LMS.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>graduation.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminPanel\Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\Admin_Dashboard.Designer.cs">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel\AdProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\AdProfile.Designer.cs">
+      <DependentUpon>AdProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel\assignCources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\assignCources.Designer.cs">
+      <DependentUpon>assignCources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel\courseAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\courseAdd.Designer.cs">
+      <DependentUpon>courseAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database Connection\DbConnection.cs" />
+    <Compile Include="facultyPanel\CourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyPanel\CourseForm.Designer.cs">
+      <DependentUpon>CourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facultyPanel\FacultyDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyPanel\FacultyDashboard.Designer.cs">
+      <DependentUpon>FacultyDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facultyPanel\facultyQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyPanel\facultyQuiz.Designer.cs">
+      <DependentUpon>facultyQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facultyPanel\ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyPanel\ProfileForm.Designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facultyPanel\TAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyPanel\TAssignment.Designer.cs">
+      <DependentUpon>TAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\Contact_Us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\Contact_Us.Designer.cs">
+      <DependentUpon>Contact_Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\Courses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\Courses.Designer.cs">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\forgetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\forgetPass.Designer.cs">
+      <DependentUpon>forgetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel\Manage_Faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\Manage_Faculty.Designer.cs">
+      <DependentUpon>Manage_Faculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel\Manage_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel\Manage_Student.Designer.cs">
+      <DependentUpon>Manage_Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn Panel\Sign_Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn Panel\Sign_Up.Designer.cs">
+      <DependentUpon>Sign_Up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rounded Region\dragForm.cs" />
+    <Compile Include="Rounded Region\roundedRegion.cs" />
+    <Compile Include="studentPanel\gradeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\gradeReport.Designer.cs">
+      <DependentUpon>gradeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentPanel\Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\Quiz.Designer.cs">
+      <DependentUpon>Quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentPanel\QuizAttempt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\QuizAttempt.Designer.cs">
+      <DependentUpon>QuizAttempt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentPanel\studentAssignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\studentAssignment.Designer.cs">
+      <DependentUpon>studentAssignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentPanel\studentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\studentDashboard.Designer.cs">
+      <DependentUpon>studentDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentPanel\studentProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentPanel\studentProfile.Designer.cs">
+      <DependentUpon>studentProfile.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminPanel\Admin_Dashboard.resx">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel\AdProfile.resx">
+      <DependentUpon>AdProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel\assignCources.resx">
+      <DependentUpon>assignCources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel\courseAdd.resx">
+      <DependentUpon>courseAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyPanel\CourseForm.resx">
+      <DependentUpon>CourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyPanel\FacultyDashboard.resx">
+      <DependentUpon>FacultyDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyPanel\facultyQuiz.resx">
+      <DependentUpon>facultyQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyPanel\ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyPanel\TAssignment.resx">
+      <DependentUpon>TAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\Contact_Us.resx">
+      <DependentUpon>Contact_Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\Courses.resx">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\forgetPass.resx">
+      <DependentUpon>forgetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel\Manage_Faculty.resx">
+      <DependentUpon>Manage_Faculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel\Manage_Student.resx">
+      <DependentUpon>Manage_Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn Panel\Sign_Up.resx">
+      <DependentUpon>Sign_Up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\gradeReport.resx">
+      <DependentUpon>gradeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\Quiz.resx">
+      <DependentUpon>Quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\QuizAttempt.resx">
+      <DependentUpon>QuizAttempt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\studentAssignment.resx">
+      <DependentUpon>studentAssignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\studentDashboard.resx">
+      <DependentUpon>studentDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentPanel\studentProfile.resx">
+      <DependentUpon>studentProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\icons8-close-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\icons8-close-46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\video.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\icons8-eye-39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\eye_imresizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\view_imresizer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\icons8-manage-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\photo\icons8-cross-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Photos\video.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Photos\icons8-cross-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Photos\icons8-manage-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pictures\icons8-teacher-36.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="graduation.ico" />
+    <None Include="pictures\icons8-student-70.png" />
+    <None Include="pictures\icons8-assignment-70.png" />
+    <None Include="pictures\icons8-quiz-70.png" />
+    <None Include="pictures\icons8-course-assign-80.png" />
+    <None Include="pictures\icons8-service-35.png" />
+    <None Include="pictures\icons8-add-male-user-group-35.png" />
+    <None Include="pictures\icons8-mission-35.png" />
+    <None Include="pictures\icons8-why-35.png" />
+    <None Include="pictures\icons8-admin-50.png" />
+    <None Include="pictures\icons8-admin-32.png" />
+    <None Include="pictures\icons8-password-50 %281%29.png" />
+    <None Include="pictures\icons8-password-50.png" />
+    <None Include="pictures\icons8-name-50.png" />
+    <None Include="pictures\icons8-whatsapp-50.png" />
+    <None Include="pictures\icons8-address-50.png" />
+    <None Include="pictures\icons8-email-50.png" />
+    <None Include="pictures\icons8-call-50.png" />
+    <None Include="pictures\icons8-database-50.png" />
+    <None Include="pictures\icons8-algorithm-50.png" />
+    <None Include="pictures\icons8-ui-design-50.png" />
+    <None Include="pictures\icons8-python-50.png" />
+    <None Include="pictures\icons8-javascript-50.png" />
+    <None Include="pictures\icons8-data-structure-50.png" />
+    <None Include="pictures\icons8-minimize-45.png" />
+    <None Include="pictures\icons8-back-70.png" />
+    <None Include="pictures\icons8-back-60.png" />
+    <None Include="pictures\icons8-back-50.png" />
+    <None Include="pictures\icons8-submit-100.png" />
+    <None Include="pictures\icons8-graphic-design-50.png" />
+    <None Include="pictures\icons8-digital-marketing-50.png" />
+    <None Include="pictures\icons8-c-50.png" />
+    <None Include="pictures\icons8-cross-40 %281%29.png" />
+    <None Include="pictures\icons8-cross-40.png" />
+    <None Include="pictures\ezgif.com-video-to-gif-converter.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

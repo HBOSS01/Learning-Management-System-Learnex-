@@ -1,0 +1,841 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\database connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:database connection\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|c:\\users\\hboss01\\onedrive\\learning-management-system--lms-\\lms\\login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultyquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quizattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\gradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\facultydashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:facultypanel\\tassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\manage_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\assigncources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\courseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:adminpanel\\adprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\contact_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:login panel\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\rounded region\\roundedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:rounded region\\roundedregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\rounded region\\dragform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:rounded region\\dragform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentpanel\\quiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893FA6A7-8B3F-4D69-A964-3ACF524CCF3F}|LMS.csproj|solutionrelative:studentpanel\\quiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 55,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\About.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\About.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\About.cs [Design]",
+              "RelativeToolTip": "LogIn Panel\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:34:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Quiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.cs [Design]",
+              "RelativeToolTip": "studentPanel\\Quiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:33:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuizAttempt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "studentPanel\\QuizAttempt.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\studentPanel\\QuizAttempt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:10:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuizAttempt.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeDocumentMoniker": "studentPanel\\QuizAttempt.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\QuizAttempt.cs",
+              "RelativeToolTip": "studentPanel\\QuizAttempt.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAwwHcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:10:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.cs",
+              "RelativeToolTip": "studentPanel\\Quiz.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:09:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gradeReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeDocumentMoniker": "studentPanel\\gradeReport.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\gradeReport.cs [Design]",
+              "RelativeToolTip": "studentPanel\\gradeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:30:11.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studentAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentAssignment.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentAssignment.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentAssignment.cs*",
+              "RelativeToolTip": "studentPanel\\studentAssignment.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:06:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "studentAssignment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentAssignment.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentAssignment.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentAssignment.cs [Design]*",
+              "RelativeToolTip": "studentPanel\\studentAssignment.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:05:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "gradeReport.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeDocumentMoniker": "studentPanel\\gradeReport.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\gradeReport.cs",
+              "RelativeToolTip": "studentPanel\\gradeReport.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:33:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeToolTip": "studentPanel\\studentDashboard.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAYwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:45:40.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "studentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentDashboard.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentDashboard.cs [Design]",
+              "RelativeToolTip": "studentPanel\\studentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:44:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "studentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentProfile.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeToolTip": "studentPanel\\studentProfile.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwLIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:46:45.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentProfile.cs",
+              "RelativeDocumentMoniker": "studentPanel\\studentProfile.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\studentProfile.cs [Design]",
+              "RelativeToolTip": "studentPanel\\studentProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:04:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeToolTip": "adminPanel\\Admin_Dashboard.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAA6wKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:20:10.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "adminPanel\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:47:40.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacultyDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\FacultyDashboard.cs [Design]",
+              "RelativeToolTip": "facultyPanel\\FacultyDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:43:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FacultyDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\FacultyDashboard.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\FacultyDashboard.cs",
+              "RelativeToolTip": "facultyPanel\\FacultyDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:08:58.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Homepage.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeToolTip": "LogIn Panel\\Homepage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:51:44.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Homepage.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Homepage.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Homepage.cs [Design]",
+              "RelativeToolTip": "LogIn Panel\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:56:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeToolTip": "facultyPanel\\ProfileForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:21:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:01:30.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:19.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "facultyQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\facultyQuiz.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\facultyQuiz.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\facultyQuiz.cs [Design]*",
+              "RelativeToolTip": "facultyPanel\\facultyQuiz.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:59.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Sign_Up.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Sign_Up.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Sign_Up.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Sign_Up.cs",
+              "RelativeToolTip": "LogIn Panel\\Sign_Up.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:24:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manage_Faculty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Faculty.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Faculty.cs [Design]",
+              "RelativeToolTip": "adminPanel\\Manage_Faculty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:35:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manage_Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Faculty.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Faculty.cs",
+              "RelativeToolTip": "adminPanel\\Manage_Faculty.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:35:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\About.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\About.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\About.cs",
+              "RelativeToolTip": "LogIn Panel\\About.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:54:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "courseAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeDocumentMoniker": "adminPanel\\courseAdd.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\courseAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:34:17.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manage_Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Student.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\Manage_Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:39:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TAssignment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\facultyPanel\\TAssignment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:22.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "assignCources.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeDocumentMoniker": "adminPanel\\assignCources.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\assignCources.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:32:56.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeDocumentMoniker": "adminPanel\\AdProfile.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\adminPanel\\AdProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:53:01.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LogIn Panel\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:21:40.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "forgetPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\forgetPass.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\forgetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:07:46.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Courses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Courses.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Courses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:07:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contact_Us.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Contact_Us.cs",
+              "ToolTip": "C:\\Users\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\ahnaf\\OneDrive - American International University-Bangladesh\\Mehedi--CSE--COURSE\\C#__OOP2\\Project\\LMS\\LogIn Panel\\Contact_Us.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:56:56.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Courses.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Courses.cs",
+              "RelativeToolTip": "LogIn Panel\\Courses.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:21:43.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "facultyQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\facultyQuiz.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\facultyQuiz.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\facultyQuiz.cs*",
+              "RelativeToolTip": "facultyPanel\\facultyQuiz.cs*",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAvwAICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:33:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\CourseForm.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\CourseForm.cs",
+              "RelativeToolTip": "facultyPanel\\CourseForm.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:34:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeDocumentMoniker": "facultyPanel\\TAssignment.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\facultyPanel\\TAssignment.cs",
+              "RelativeToolTip": "facultyPanel\\TAssignment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:20:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Manage_Student.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeDocumentMoniker": "adminPanel\\Manage_Student.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\Manage_Student.cs",
+              "RelativeToolTip": "adminPanel\\Manage_Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:39:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "assignCources.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeDocumentMoniker": "adminPanel\\assignCources.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\assignCources.cs",
+              "RelativeToolTip": "adminPanel\\assignCources.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAqwC0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:10:58.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "courseAdd.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeDocumentMoniker": "adminPanel\\courseAdd.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\courseAdd.cs",
+              "RelativeToolTip": "adminPanel\\courseAdd.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAqwNQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:34:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeDocumentMoniker": "adminPanel\\AdProfile.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\adminPanel\\AdProfile.cs",
+              "RelativeToolTip": "adminPanel\\AdProfile.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:20:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Contact_Us.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\Contact_Us.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\Contact_Us.cs",
+              "RelativeToolTip": "LogIn Panel\\Contact_Us.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:03:21.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\LoginForm.cs",
+              "RelativeToolTip": "LogIn Panel\\LoginForm.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:21:42.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "forgetPass.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeDocumentMoniker": "LogIn Panel\\forgetPass.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\LogIn Panel\\forgetPass.cs",
+              "RelativeToolTip": "LogIn Panel\\forgetPass.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:08:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "roundedRegion.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Rounded Region\\roundedRegion.cs",
+              "RelativeDocumentMoniker": "Rounded Region\\roundedRegion.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Rounded Region\\roundedRegion.cs",
+              "RelativeToolTip": "Rounded Region\\roundedRegion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:10:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dragForm.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Rounded Region\\dragForm.cs",
+              "RelativeDocumentMoniker": "Rounded Region\\dragForm.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Rounded Region\\dragForm.cs",
+              "RelativeToolTip": "Rounded Region\\dragForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:03:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Database Connection\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Database Connection\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\Database Connection\\DbConnection.cs",
+              "RelativeToolTip": "Database Connection\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:09:08.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Quiz.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.Designer.cs",
+              "RelativeDocumentMoniker": "studentPanel\\Quiz.Designer.cs",
+              "ToolTip": "C:\\Users\\HBOSS01\\OneDrive\\Learning-Management-System--LMS-\\LMS\\studentPanel\\Quiz.Designer.cs",
+              "RelativeToolTip": "studentPanel\\Quiz.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:58:55.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

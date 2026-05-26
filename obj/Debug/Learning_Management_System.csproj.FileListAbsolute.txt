@@ -1,0 +1,15 @@
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.csproj.AssemblyReference.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.g.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.Admin_Dashboard.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.AdProfile.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.LoginForm.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.Manage_Faculty.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.Manage_Student.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.Properties.Resources.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.csproj.GenerateResource.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Learning_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.Admin_Dashboard.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.AdProfile.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.LoginForm.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.Manage_Faculty.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\Learning_Management_System\obj\Debug\Login_Animated.Manage_Student.resources

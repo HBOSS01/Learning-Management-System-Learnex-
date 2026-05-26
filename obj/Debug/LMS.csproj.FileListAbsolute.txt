@@ -1,0 +1,100 @@
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\bin\Debug\LMS.exe.config
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\bin\Debug\LMS.exe
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\bin\Debug\LMS.pdb
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.Admin_Dashboard.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.AdProfile.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LoginForm.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.Manage_Faculty.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.Manage_Student.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.exe
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.pdb
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\bin\Debug\LMS.exe.config
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\bin\Debug\LMS.exe
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\bin\Debug\LMS.pdb
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.Admin_Dashboard.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.AdProfile.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LoginForm.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.Manage_Faculty.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.Manage_Student.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.exe
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.pdb
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.studentPanel.studentDashboard.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.studentDashboard.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.Homepage.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.Homepage.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.studentPanel.studentProfile.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.studentPanel.studentAssignment.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.studentPanel.Quiz.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.studentPanel.QuizAttempt.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.facultyPanel.facultyQuiz.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.facultyPanel.facultyQuiz.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.Quiz.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.QuizAttempt.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.studentAssignment.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.studentProfile.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.facultyPanel.CourseForm.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.facultyPanel.FacultyDashboard.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.facultyPanel.ProfileForm.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.facultyPanel.TAssignment.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.adminPanel.courseAdd.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.facultyPanel.CourseForm.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.facultyPanel.FacultyDashboard.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.facultyPanel.ProfileForm.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.facultyPanel.TAssignment.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.adminPanel.courseAdd.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.About.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.Courses.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.About.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.Courses.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.adminPanel.assignCources.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.adminPanel.assignCources.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.Contact_Us.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.Sign_Up.resources
+C:\Users\HBOSS01\OneDrive - American International University-Bangladesh\AHNAF HASAN's files - Project\LMS\obj\Debug\LMS.LogIn_Panel.forgetPass.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.Contact_Us.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.forgetPass.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.LogIn_Panel.Sign_Up.resources
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.exe.config
+C:\Users\ahnaf\OneDrive - American International University-Bangladesh\Mehedi--CSE--COURSE\C#__OOP2\Project\LMS\obj\Debug\LMS.studentPanel.gradeReport.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\bin\Debug\LMS.exe.config
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\bin\Debug\LMS.exe
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\bin\Debug\LMS.pdb
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.exe.config
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.Admin_Dashboard.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.AdProfile.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.adminPanel.assignCources.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.adminPanel.courseAdd.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.facultyPanel.CourseForm.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.facultyPanel.FacultyDashboard.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.facultyPanel.facultyQuiz.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.facultyPanel.ProfileForm.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.facultyPanel.TAssignment.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.About.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.Contact_Us.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.Courses.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.forgetPass.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.Homepage.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LoginForm.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.Manage_Faculty.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.Manage_Student.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.LogIn_Panel.Sign_Up.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.gradeReport.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.Quiz.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.QuizAttempt.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.studentAssignment.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.studentDashboard.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.studentPanel.studentProfile.resources
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.exe
+C:\Users\HBOSS01\OneDrive\Learning-Management-System--LMS-\LMS\obj\Debug\LMS.pdb

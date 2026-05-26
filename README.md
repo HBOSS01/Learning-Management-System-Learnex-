@@ -44,6 +44,25 @@ Learnex provides role-based access for three types of users — **Admin**, **Fac
 
 ---
 
+## Screenshots
+
+**Homepage**
+![Homepage](pictures/ss/Screenshot%202026-05-26%20191013.png)
+
+**Login**
+![Login](pictures/ss/2.png)
+
+**Admin Dashboard**
+![Admin Dashboard](pictures/ss/3.png)
+
+**Manage Faculty**
+![Manage Faculty](pictures/ss/4.png)
+
+**Student Dashboard**
+![Student Dashboard](pictures/ss/5.png)
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |

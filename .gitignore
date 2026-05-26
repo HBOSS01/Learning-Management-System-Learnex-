@@ -11,6 +11,9 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+*.suo
+*.db
+*.vsidx
 
 # User-specific files
 *.rsuser
